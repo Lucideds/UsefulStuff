@@ -3,7 +3,6 @@
 * [Magisk](#magisk)  
 * [LIAPP Bypass](#liapp-bypass)  
 * [YTVanced](#ytvanced)
-* [Osu!](#osu!)
 * [Cracked Software](#cracked-software)
 * [Notes](#notes)
 
@@ -132,6 +131,9 @@ Everyone knows what this is
 ## Adobe Products  
 Fuck adobe  
 [Magnet link (Upload.systems)](https://api.upload.systems/pastes/RGQHjNKZLjP1/raw)  
+
+
+
 
 
 # Notes
