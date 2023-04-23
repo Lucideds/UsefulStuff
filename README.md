@@ -84,8 +84,7 @@ non-root
 # Magisk
 
 A powerful rooting tool, Forked by HuskyDG I'd recommend everyone to root their phone. The drive also has a small collection of modules which I find useful.  
-[Google Download](https://drive.google.com/drive/folders/13EOQWqo4tmgjdSqGPbkxBjITLfNN_NNg?usp=share_link)  
-[Github](https://github.com/HuskyDG/magisk-files/releases)  
+[Github](https://github.com/topjohnwu/Magisk/releases)  
 
 The XDA forums have lots of useful information about rooting.  
 https://forum.xda-developers.com/  
