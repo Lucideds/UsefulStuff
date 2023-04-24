@@ -89,8 +89,11 @@ A powerful rooting tool, Forked by HuskyDG I'd recommend everyone to root their 
 The XDA forums have lots of useful information about rooting.  
 https://forum.xda-developers.com/  
 
-
-
+# HDO-BOX
+A very good app to watch any movies.
+[Android](https://hdo.app/)
+[IOS](https://apps.apple.com/us/app/show-mania/id6447087272)
+The IOS link will get taken down so it may not be updated all the time.
 
 
 # LIAPP-Bypass  
